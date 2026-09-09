@@ -243,7 +243,7 @@ Amazon CloudFront is configured with the S3 bucket as the origin and distributes
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/glowcare-website.git
+git clone https://github.com/Dharmendra-9450/glowcare-website.git
 ```
 
 ### 2. Open the project
